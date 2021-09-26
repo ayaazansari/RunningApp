@@ -33,6 +33,8 @@
         <item name="textAppearanceOverline">@style/TextAppearance.MaterialComponents.Overline</item>
 
         <item name="alertDialogTheme">@style/AlertDialogTheme</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
     <style name="TextViewStyle" parent="Widget.MaterialComponents.TextView">
