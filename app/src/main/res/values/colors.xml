@@ -16,4 +16,5 @@
     <color name="colorAccent">#FFE600</color>
     <color name="errorColor">#D50000</color>
     <color name="newe">#D50000</color>
+    <color name="another color">#D50000</color>
 </resources>
