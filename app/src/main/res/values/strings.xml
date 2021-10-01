@@ -7,6 +7,7 @@
         <item>Average Speed</item>
         <item>Calories Burned</item>
         <item>Lmao </item>
+        <item>Lol </item>
     </string-array>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDzytvqjKXehcH6Wo2pAv0siUXJ_pwKKe0</string>
 </resources>
